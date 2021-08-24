@@ -7,4 +7,5 @@ Sumário:
 [#001: Iniciando no Elasticsearch](https://github.com/brunoflegler/elasticsearch-course/blob/master/001/readme.md)\
 [#002: Indexando o primeiro documento](https://github.com/brunoflegler/elasticsearch-course/blob/master/002/readme.md)\
 [#003: Buscando todos os documentos no Elasticsearch](https://github.com/brunoflegler/elasticsearch-course/blob/master/003/readme.md)\
-[#004: Adicionando filtro na busca do Elasticsearch](https://github.com/brunoflegler/elasticsearch-course/blob/master/004/readme.md)
+[#004: Adicionando filtro na busca do Elasticsearch](https://github.com/brunoflegler/elasticsearch-course/blob/master/004/readme.md)\
+[#005: Combinando filtros na busca do Elasticsearch](https://github.com/brunoflegler/elasticsearch-course/blob/master/005/readme.md)
